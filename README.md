@@ -4,7 +4,7 @@ Beat the NYTimes Spelling Bee puzzle https://www.nytimes.com/puzzles/spelling-be
 Finds all solutions and (optionally) submits them to NYTimes on your behalf.
 
 ## Setup
-Install Python and the `requests` library. If usinig `pipenv`:
+Install Python 3.x and the `requests` library. If usinig `pipenv`:
 ```
 pipenv install requests
 pipenv shell
